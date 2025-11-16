@@ -9,7 +9,7 @@
 Dự án được tổ chức rõ ràng, dễ bảo trì, sử dụng widget riêng cho từng nút bấm và kết hợp thư viện `math_expressions` để xử lý biểu thức.
 
 ## 📸 Ảnh chụp màn hình
-![Ảnh màn hình 1](screenshots/maytinh.png)
+![Ảnh màn hình 1](screenshot/maytinh.png)
 
 
 ## ▶️ Hướng dẫn chạy dự án
